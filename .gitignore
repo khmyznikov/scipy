@@ -310,3 +310,4 @@ scipy/optimize/_group_columns.c
 scipy/optimize/cython_optimize/_zeros.c
 scipy/optimize/cython_optimize/_zeros.pyx
 scipy/optimize/lbfgsb/_lbfgsbmodule.c
+env
